@@ -21,7 +21,7 @@ public class ProcessDev {
 		for(int i : result) {
 			System.out.print(i + ", ");
 		}
-	}
+	} 
 	public static int[] solution(int[] progresses, int[] speeds) {
         //순서대로 되어있음. 진도, 개발속도
         //뒷 순서가 먼저 배포될 수 없음. 완성되면 같이 나옴
