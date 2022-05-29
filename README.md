@@ -1,4 +1,5 @@
 <div align=center><h1>✨Backend Developer✨</h1></div>
+<h4><a href="https://blog.naver.com/gmg_213"><img src="https://img.shields.io/badge/blog-2DB400?style=square&logo=naver&logoColor=white"/></a></h4>
 <h2>🛠Tech Stack🛠</h2>
 <div align=left>
   <img src="https://img.shields.io/badge/C&#32;-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -18,5 +19,3 @@
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
-<br>
-MyBlog - <a href="https://blog.naver.com/gmg_213"><img src="https://img.shields.io/badge/blog-2DB400?style=square&logo=naver&logoColor=white"/></a>
