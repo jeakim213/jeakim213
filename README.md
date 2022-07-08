@@ -18,5 +18,4 @@
 <div align=left>
   <img src="https://img.shields.io/badge/eclipse-525C86?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </div>
